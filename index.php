@@ -44,16 +44,16 @@ include '../koneksi.php';
      </div>
      <div class="flex items-center">
       <a class="text-white nb hover:text-white px-3" href="../web/beranda.php">
-       Home
+       Beranda
       </a>
       <a class="text-white nb hover:text-white px-3" href="../web/tentang.php">
-       About
+       kegiatan
       </a>
       <a class="text-white nb hover:text-white px-3" href="../web/tabel_gang.php">
-       geng
+       informasi 
       </a>
       <a class="text-white nb hover:text-white px-3" href="../web/saya.html">
-       Contact
+       Tentang
       </a>
 
       <li class="relative dropdown w-48" id="dropdown">
