@@ -1,3 +1,5 @@
 <div>
-  <h1>halo iki </h1>
+  <?php
+  require './layouts/navbar.php';
+  ?>
 </div>
